@@ -6,5 +6,9 @@ For my introduction to machine learning project, I opted to create a practical a
 
 This program pulls from the csv file provided to predict what genres of music users may enjoy given their age and gender. 0 and 1 represent the genders of male and female respectively.
 
-##Inputs
+## Inputs - ["age", "gender"]
+This program makes a prediction for 2 inputs
 ![Screenshot 2023-05-08 210045](https://user-images.githubusercontent.com/36772246/236967814-fb3c8f82-7c8c-44b3-80ac-0299cbd61516.png)
+
+## Output
+![Screenshot 2023-05-08 210249](https://user-images.githubusercontent.com/36772246/236968042-dfa46457-15cf-4b08-a69a-0bb37a4053a8.png)
